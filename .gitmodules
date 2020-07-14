@@ -1,0 +1,3 @@
+[submodule "01-mlnet-jupyter/src"]
+	path = 01-mlnet-jupyter/src
+	url = https://github.com/mrcarbook/Data-Science-Experiments-with-ML.NET-Jupyter
